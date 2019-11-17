@@ -63,4 +63,16 @@ Workshop Training Repository
 
 ## Mostafa AboBakr
 * Html
-* Html5
+* Html 5
+* Css
+* Css 3 
+* Pugjs
+* sass
+* Bootstrap 3 & 4
+* Js
+* Jquery
+* Gulp 
+* Git
+* Adobe Photoshop
+* Adobe XD
+
